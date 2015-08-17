@@ -1,0 +1,13 @@
+Package: networkdata
+Type: Package
+Title: Lin Freeman's Network Data Collection
+Version: 0.01
+Date: 2014-01-31
+Author: Zack W. Almquist <almquist@umn.edu>
+Maintainer: Zack W. ALmquist <almquist@umn.edu>
+Description: A collection of network data sets derived mainly from Linton Freeman's UCI Intro to Social Networks class data set collection. They are stored as "network" objects and are mainly for use with the analysis packages "statnet" and "sna".
+Depends: R (>= 2.10), network,sna
+License: GPL (>=2)
+LazyLoad: yes
+URL: https://github.com/Z-co/networkdata
+Packaged: 2014-06-24 16:29:18 UTC; zack
