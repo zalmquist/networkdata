@@ -5,7 +5,7 @@
 \description{
 books: One 105 by 105 non-symmetric binary matrix.
 
-\bold{BACKGROUND} odes represent books about US politics sold by the online bookseller Amazon.com. Edges represent frequent co-purchasing of books by the same buyers, as indicated by the "customers who bought this book also bought these other books" feature on Amazon.
+\bold{BACKGROUND} Nodes represent books about US politics sold by the online bookseller Amazon.com. Edges represent frequent co-purchasing of books by the same buyers, as indicated by the "customers who bought this book also bought these other books" feature on Amazon.
 
 
 }
